@@ -16,7 +16,7 @@
             # Note: Context name can be found using:
             #   kubectl config current-context
             # ==================
-            # kubernetes_context: ''
+            kubernetes_context: 'dcos-team-sprk-clstr3'
 
             # Deploy into Openshift
             # ==================
